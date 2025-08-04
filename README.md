@@ -2,7 +2,7 @@
 Este proyecto fue levantado con una base de datos en PostgreSQL
 
 ## Requisitos
-- Tener PostgreSQL 17.4 instalado
+- Tener PostgreSQL
 - Base de datos creada con el nombre `prueba`
 - Configurar el archivo `.env` con las credenciales de su usuario `postgres`
 
